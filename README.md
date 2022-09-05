@@ -11,6 +11,8 @@
  
 ## Dataset 
  - <a href="http://insideairbnb.com/get-the-data/">Link to 2022 AirBnB Amsterdam Data</a>
+ - <a href="https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam">Link to kaggle AirBnB Amsterdam Data from 2018</a>
+
  - 6 diffrent csv files  + 1 geojason
     1. listing_details.csv (Detailed Listings data)
     2. calendar.csv (The calendar has 365 records for each listing. It specifies the whether the listing is available on a particular day (365 days ahead), and the price on that day)
