@@ -6,7 +6,7 @@
 
 ## Objectives 
 
- - We choose to do a BI Project with current AirBnB data in Amsterdam. The main goal of this project is to give potencial AirBnb users a clear and customized view of avialbe AirBnB's in Amsterdam to empower them to make data-driven decisions. Focuse will be on the price and location of the AirBnB
+ - We choose to do a BI Project with 2018 AirBnB data in Amsterdam. The main goal of this project is to give potencial AirBnb users a clear and customized view of avialbe AirBnB's in Amsterdam to empower them to make data-driven decisions. Focuse will be on the price and location of the AirBnB
  
 ## Dataset 
  - <a href="https://www.kaggle.com/datasets/erikbruin/airbnb-amsterdam">Link to kaggle AirBnB Amsterdam Data from 2018</a>
